@@ -1,0 +1,31 @@
+{
+  "name": "bs4starter",
+  "version": "1.0.0",
+  "description": "Bootstrap 4 Startup Template",
+  "main": "index.js",
+  "scripts": {
+    "start": "gulp"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/saikumarbt/webdev-startups.git"
+  },
+  "keywords": [
+    "Bootstrap4"
+  ],
+  "author": "Sai Kumar",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/saikumarbt/webdev-startups/issues"
+  },
+  "homepage": "https://github.com/saikumarbt/webdev-startups#readme",
+  "dependencies": {
+    "bootstrap": "4.0.0-alpha.6",
+    "font-awesome": "^4.7.0"
+  },
+  "devDependencies": {
+    "browser-sync": "^2.21.0",
+    "gulp": "^3.9.1",
+    "gulp-sass": "^3.1.0"
+  }
+}
